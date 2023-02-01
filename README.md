@@ -4,7 +4,6 @@ I have experience in the following:
 - Virtualization
 - Server Creation and Management
 - Database Creation and Management
-- Google Cloud Computing
 
 <!---
 mrbic7/mrbic7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
